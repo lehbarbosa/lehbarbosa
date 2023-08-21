@@ -1,9 +1,9 @@
 # Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 😀
 
-📚 Sou estudante da escola Full Stack JavaScript Onebitcode.<br>
+📚 Sou estudante de Full Stack JavaScript na escola Onebitcode.<br>
 ✔️ Encantado por criar soluções inovadoras e agradáveis ​​para web.<br>
 ✔️ Busco oportunidade de aprendizado e crescimento profissional na área.<br>
-✔️ Interesse em desenvolvimento front end e back end, onde posso aplicar meus conhecimentos e habilidades                               
+✔️ Interesse em desenvolvimento front end e back end, onde possa aplicar meus conhecimentos e habilidades                               
     para desenvolver projetos de qualidade e impacto.
 
 <a href="#">
