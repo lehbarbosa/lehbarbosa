@@ -47,5 +47,5 @@
  
 </div>  
 
-![Snake animation](https://github.com/lehbarbosa/lehbarbosa/blob/main/.github/workflows/main.yml)
+
  
