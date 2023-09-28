@@ -15,9 +15,9 @@
     para desenvolver projetos de qualidade e impacto.
 </div>
      
-<div><>
+<div><br>
  <a href="https://github.com/lehbarbosa"/>   
-<img height="180"  src="https://github-readme-stats.vercel.app/api?username=lehbarbosa&show_icons=true&theme=tokyonight"/>
+<img height="180"  src= "https://github-readme-stats.vercel.app/api?username=lehbarbosa&show_icons=true&theme=tokyonight"/>
 <img height="180"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 </div>
 
