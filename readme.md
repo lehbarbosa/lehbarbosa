@@ -8,7 +8,7 @@
  </div>  
 
 <div><br>
-📚 Sou estudante de Full Stack JavaScript na escola Onebitcode.<br>
+📚 Sou estudante de Full Stack JavaScript na plataforma de ensino de programação Onebitcode.<br>
 ✔️ Encantado por criar soluções inovadoras e agradáveis ​​para web.<br>
 ✔️ Busco oportunidade de aprendizado e crescimento profissional na área.<br>
 ✔️ Interesse em desenvolvimento front end e back end, onde possa aplicar meus conhecimentos e habilidades                               
