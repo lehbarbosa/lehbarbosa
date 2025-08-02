@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro Barbosa 👋🏼 
 
 
-- 🧑🏻‍💻 Estudando de Python
+- 🧑🏻‍💻 Estudando de Desenvolvimento Web
   <ul>
     <li>Curso em vídeo - Instrutor - Gustavo Guanabara</li>
     <li>Udemy - Instrutor - Luiz Otávio Miranda</li>
