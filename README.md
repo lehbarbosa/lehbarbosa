@@ -1,13 +1,13 @@
 ## Olá! Eu sou o Leandro 👋
 
-- 🚀 Aprendendo Python
+- 🚀 Aprendendo Python com o Curso em Vídeo do Gustavo Guanabara
 - 🤝 Aberto para colaboração e networking
 - 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/lehbarbosa">
-  <img height=180 align="bottom" src="https://github-readme-stats.vercel.app/api?username=lehbarbosa&show_icons=true&theme=tokyonight&include_all_comits=true&count_weight=1)" />
-  <img height=180 align="bottom"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehbarbosa&theme=tokyonight&layout=compact&langs_count=16" />
+  <!--<img height=180 align="bottom" src="https://github-readme-stats.vercel.app/api?username=lehbarbosa&show_icons=true&theme=tokyonight&include_all_comits=true&count_weight=1)" />
+  <img height=180 align="bottom"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehbarbosa&theme=tokyonight&layout=compact&langs_count=16" />-->
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
